@@ -1,0 +1,18 @@
+c:\users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+c:\users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+c:\users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+c:\users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+c:\users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.Form1.resources
+c:\users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+c:\users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.Cache
+c:\users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+c:\users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+c:\users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.Dashboard.resources
+C:\Users\rahad\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.AddBooks.resources
+C:\Users\rahad\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.ViewBook.resources
+C:\Users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.AddStudent.resources
+C:\Users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.ViewStudentInformation.resources
+C:\Users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.IssueBook.resources
+C:\Users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.ReturnBook.resources
+C:\Users\rahad\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.CompleteBookDetails.resources
+C:\Users\rahad\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.SignUp.resources

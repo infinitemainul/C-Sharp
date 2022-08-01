@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\abu\Mid_Lab_Assignment\Mid_Lab_Assignment\bin\Debug\Mid_Lab_Assignment.exe.config
+C:\Users\Asus\Desktop\abu\Mid_Lab_Assignment\Mid_Lab_Assignment\bin\Debug\Mid_Lab_Assignment.exe
+C:\Users\Asus\Desktop\abu\Mid_Lab_Assignment\Mid_Lab_Assignment\bin\Debug\Mid_Lab_Assignment.pdb
+C:\Users\Asus\Desktop\abu\Mid_Lab_Assignment\Mid_Lab_Assignment\obj\Debug\Mid_Lab_Assignment.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\abu\Mid_Lab_Assignment\Mid_Lab_Assignment\obj\Debug\Mid_Lab_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\abu\Mid_Lab_Assignment\Mid_Lab_Assignment\obj\Debug\Mid_Lab_Assignment.exe
+C:\Users\Asus\Desktop\abu\Mid_Lab_Assignment\Mid_Lab_Assignment\obj\Debug\Mid_Lab_Assignment.pdb
+C:\Users\Mainul\Desktop\Mid_Lab_Assignment\Mid_Lab_Assignment\bin\Debug\Mid_Lab_Assignment.exe.config
+C:\Users\Mainul\Desktop\Mid_Lab_Assignment\Mid_Lab_Assignment\bin\Debug\Mid_Lab_Assignment.exe
+C:\Users\Mainul\Desktop\Mid_Lab_Assignment\Mid_Lab_Assignment\bin\Debug\Mid_Lab_Assignment.pdb
+C:\Users\Mainul\Desktop\Mid_Lab_Assignment\Mid_Lab_Assignment\obj\Debug\Mid_Lab_Assignment.csprojAssemblyReference.cache
+C:\Users\Mainul\Desktop\Mid_Lab_Assignment\Mid_Lab_Assignment\obj\Debug\Mid_Lab_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Mainul\Desktop\Mid_Lab_Assignment\Mid_Lab_Assignment\obj\Debug\Mid_Lab_Assignment.exe
+C:\Users\Mainul\Desktop\Mid_Lab_Assignment\Mid_Lab_Assignment\obj\Debug\Mid_Lab_Assignment.pdb

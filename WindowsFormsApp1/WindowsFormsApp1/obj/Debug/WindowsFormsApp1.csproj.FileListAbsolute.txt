@@ -1,0 +1,12 @@
+D:\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Presentationlayer.HomeForm.resources
+D:\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Presentationlayer.LoginForm.resources
+D:\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Temp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Temp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Temp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Presentationlayer.SigninForm.resources
